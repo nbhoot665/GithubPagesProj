@@ -9,6 +9,9 @@ Hello my name is *Nilay*.  This is my GitHub Page site
 - [About Me](#about-me)
 - [Projects](#projects)
 
+## Relative link example
+[Readme](GithubPagesProj/README.md)
+
 ## About Me
 Hi! I am fourth-year undergraduate student at the University of California San Diego majoring in Computer Science and Math. I have plenty of experience with Full Stack Development and Relational Database Management Projects. I am passionate about Robotics and Software engineering disciplines in general.
 
